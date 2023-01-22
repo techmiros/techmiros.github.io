@@ -1,1 +1,0 @@
-# techmiros.github.io
