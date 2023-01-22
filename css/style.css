@@ -4837,9 +4837,7 @@ input[type=number] {
 /*---------------------------------------------------*/
 /*	21) IKNOW MEDIA QUERIES (FOR SMALL DEVICES)
 /*---------------------------------------------------*/
-@media (max-width:460px){
-	.swiper{left: 34%;width: 422px;}
-}
+
 @media (max-width: 1400px) {
 	.iknow_tm_mainpart{padding: 0 10px;}
 	

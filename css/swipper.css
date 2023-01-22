@@ -17,3 +17,6 @@
     display: block;
     width: 100%;
   }
+  @media (max-width:460px){
+    .swiper{left: 34%;width: 422px;}
+  }
